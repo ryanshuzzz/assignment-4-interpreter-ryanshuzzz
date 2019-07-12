@@ -1,0 +1,15 @@
+ARGS, ArgsByteCode
+BOP, BopByteCode
+CALL, CallByteCode
+DUMP, DumpByteCode
+FALSEBRANCH, FalseBranchByteCode
+GOTO, GoToByteCode
+HALT, HaltByteCode
+LABEL, LabelByteCode
+LIT, LitByteCode
+LOAD, LoadByteCode
+POP, PopByteCode
+READ, ReadByteCode
+RETURN, ReturnByteCode
+STORE, StoreByteCode
+WRITE, WriteByteCode

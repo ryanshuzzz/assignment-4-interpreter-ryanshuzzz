@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 3b4b3d1e479174fffd4b8e9425425c9fb6fbc644 Ryan <ryanshu78@gmail.com> 1555456911 -0700	clone: from git@github.com:sfsu-csc-413-spring-2019/assignment-4-interpreter-ryanshuzzz.git
+3b4b3d1e479174fffd4b8e9425425c9fb6fbc644 f87b4bd3334772c470e01eb9c6f0d6ba2b96638b Ryan <ryanshu78@gmail.com> 1556569688 -0700	commit: Add .gitignore
+f87b4bd3334772c470e01eb9c6f0d6ba2b96638b af26415d15175929346c4cbd910eaa9cd2b5af5b Ryan <ryanshu78@gmail.com> 1556606723 -0700	commit: Created all bytecode classes. Created VM, RuntimeStack, Implemented ByteCodeLoader, CodeTable, & Program
+af26415d15175929346c4cbd910eaa9cd2b5af5b 0310ec99163b84b43260a696316b6b376387db2d Ryan <ryanshu78@gmail.com> 1557012436 -0700	commit: A bunch of updates. TODO fix bug
+0310ec99163b84b43260a696316b6b376387db2d 274a8a04a2372919aaa0a9ab87cdac48d40ba081 Ryan <ryanshu78@gmail.com> 1557021043 -0700	pull: Fast-forward
+274a8a04a2372919aaa0a9ab87cdac48d40ba081 d1ee89b2c2ceaa875106244f7bc215d2ca11a68f Ryan <ryanshu78@gmail.com> 1557022839 -0700	pull: Fast-forward
+d1ee89b2c2ceaa875106244f7bc215d2ca11a68f 98052d5430a2ebb5d58a38d363bab57ebb847015 Ryan <ryanshu78@gmail.com> 1557022990 -0700	commit: Added file to help compile through command line
+98052d5430a2ebb5d58a38d363bab57ebb847015 642c63ee8802151ca6293c4cc93c37794122b11c Ryan <ryanshu78@gmail.com> 1557024606 -0700	pull: Fast-forward
+642c63ee8802151ca6293c4cc93c37794122b11c 18dc8220c451328a82c4bcffc6c8b159c04e7bc6 Ryan <ryanshu78@gmail.com> 1557024669 -0700	pull: Fast-forward
+18dc8220c451328a82c4bcffc6c8b159c04e7bc6 51a5c2fbe93b155b7584240d39f915bc326c50ff Ryan <ryanshu78@gmail.com> 1557105142 -0700	commit: Fixed runstack.dump(). Set dumstate default to false. Fixed -Xlint errors
+51a5c2fbe93b155b7584240d39f915bc326c50ff 1509c4dfa43f5160b17a53d3eaff8c93fe0c1581 Ryan <ryanshu78@gmail.com> 1557269452 -0700	commit: Changed dump to return string statement
+1509c4dfa43f5160b17a53d3eaff8c93fe0c1581 ae677820b7bfb03698d4c5597d8e11e1ff6b53ee Ryan <ryanshu78@gmail.com> 1557275147 -0700	commit: updated test
+ae677820b7bfb03698d4c5597d8e11e1ff6b53ee e45d356e4d08732f0a7e2da7e7873a2a118e4961 Ryan <ryanshu78@gmail.com> 1557275847 -0700	commit: Updated output for dumps
+e45d356e4d08732f0a7e2da7e7873a2a118e4961 c4948b29ca7037d0153b4ab376f8a72211fbae23 Ryan <ryanshu78@gmail.com> 1557292021 -0700	commit: create README, update ByteCodes
+c4948b29ca7037d0153b4ab376f8a72211fbae23 0e0b77cb9906904e79a077d719116acd3eed9b4f Ryan <ryanshu78@gmail.com> 1557294452 -0700	commit: Added Class Diagrtam photos
