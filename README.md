@@ -7,7 +7,7 @@ CSC 413-05
 ### Overview
 
 ### Project Introduction
-	This repository contains the interpreter portion of the x language compiler. The purpose of this repository is to continue the work done on the large x compiler code base and create a functioning Interpreter. Initially given is the Interpreter.java class. From here we must create and implement the following classes:
+This repository contains the interpreter portion of the x language compiler. The purpose of this repository is to continue the work done on the large x compiler code base and create a functioning Interpreter. Initially given is the Interpreter.java class. From here we must create and implement the following classes:
 1. CodeTable
 2. ByteCodeLoader
 3. Program
